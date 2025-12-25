@@ -1,5 +1,5 @@
 # 💫 About Me:
-Accomplished Artificial Intelligence And Machine Learning Engineer with a robust background in mathematics and physics. Expert in harnessing data-driven insights to address complex challenges, with a specialization in Artificial Intelligence, Machine Learning, Data Science And Data Analyst. With a demonstrated history of delivering impactful, data-driven solutions. Fluent in English and French, with exceptional analytical and problem-solving skills. Proven experience in leading AI and data-centric projects, committed to continuous learning and driving innovation in emerging technologies.
+Accomplished Artificial Intelligence And Machine Learning Engineer & Reasercher with a robust background in mathematics and physics. Expert in harnessing data-driven insights to address complex challenges, with a specialization in Artificial Intelligence, Machine Learning, Data Science And Data Analyst. With a demonstrated history of delivering impactful, data-driven solutions. Fluent in English and French, with exceptional analytical and problem-solving skills. Proven experience in leading AI and data-centric projects, committed to continuous learning and driving innovation in emerging technologies.
 
 
 ## 🌐 Socials:
